@@ -2,4 +2,6 @@ textando
 uma 
 atualizacão
 de
-arquivo
+arquivo.
+testando 
+git log.
