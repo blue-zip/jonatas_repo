@@ -6,3 +6,7 @@ arquivo.
 testando 
 git log.
 a
+<<<<<<< Updated upstream
+=======
+b
+>>>>>>> Stashed changes
