@@ -6,3 +6,6 @@ arquivo.
 testando 
 git log.
 a
+enviando 
+a funcionalidade
+X
