@@ -1,0 +1,3 @@
+[submodule "submodolo"]
+	path = submodolo
+	url = https://github.com/blue-zip/submodulo.git
