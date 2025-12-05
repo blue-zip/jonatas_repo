@@ -1,4 +1,0 @@
-Olá Mundo
-teste 
-de 
-diff
