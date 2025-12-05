@@ -6,3 +6,4 @@ arquivo.
 testando 
 git log.
 a
+b
